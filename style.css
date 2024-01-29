@@ -1,0 +1,6 @@
+root{
+    --rangi:red;
+}
+h1{
+    color: var(--rangi);
+}
